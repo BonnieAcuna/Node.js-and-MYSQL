@@ -10,4 +10,4 @@ BamazonManager.js:
 
 Check out the link -----> https://drive.google.com/file/d/15aX8Tv_vYqeZ5L0I0QtiSrgMM5Sxq5Ln/view
 
-Updated Profile ----->
+Updated Profile -----> https://bonnieacuna.github.io/Updated-Portfolio
