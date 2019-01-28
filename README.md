@@ -1,6 +1,12 @@
+Bamazon.sql:
+
+  In MySql I created a database called Bamazon.  I created a table that had colums with id, product name, department name, price, and stock quantity.  I inserted 10 different values in each column to start the table.
+
+
+
 BamazonCustomer.js:
 
-  The programs I installed was inquirer, mysql and console.table.  When the user types node bamazonCustomer.js into the terminal, a table with all of the id, product name, department name, price, and stock quantity will pop up.  This will prompt for the user to pick which item they would like to purchase.  When they pick an item, it will prompt them to input how many of the item they would like.  From there it will tell them that the purchase was successful and a purchase summary will show with the item name, the item count and the total of the purchase.
+  The programs I installed was inquirer, mysql and console.table.  When the user types node bamazonCustomer.js into the terminal, a table with all of the products that I imported from Bamazon.sql will pop up.  This will prompt for the user to pick which item they would like to purchase.  When they pick an item, it will prompt them to input how many of the item they would like.  From there it will tell them that the purchase was successful and a purchase summary will show with the item name, the item count and the total of the purchase.
   
 BamazonManager.js:
 
